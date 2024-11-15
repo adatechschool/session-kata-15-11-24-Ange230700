@@ -15,8 +15,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "dev": "vite --host",
-    "prepare": "husky",
-    "commitlint": ""
+    "prepare": "husky"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
